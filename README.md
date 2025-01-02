@@ -59,16 +59,21 @@ The analysis includes the following steps:
    git clone https://github.com/J0yfarah/EDA-of-Shopping-Data.git
 2. Navigate to the repository folder:
    ```bash
-  cd EDA-of-Shopping-Data
+   cd EDA-of-Shopping-Data
 3. Install the required libraries:
    ```bash
    pip install pandas numpy matplotlib seaborn jupyter
 4. Open the Jupyter Notebook:
    ```bash
    jupyter notebook EDA_of_Shopping_Data.ipynb
+
 5. Run the notebook cells to reproduce the analysis.
 
-   ## **Next Steps**
+
+---
+
+
+## **Next Steps**
 The following tasks are planned to complete the analysis:
 1. Answer the remaining questions outlined in the **Analysis Overview**.
 2. Perform clustering analysis to segment customers based on their behavior.
