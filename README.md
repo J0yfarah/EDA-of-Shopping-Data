@@ -94,6 +94,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## **Contact**
 For questions or feedback, please contact:
-- **Name**: Joy Farah
-- **Email**: joy.farah@example.com
+- **Name**: Tlemcani Halima Farah
+- **Email**: Farah.tlemcani00@gmail.com
 - **GitHub**: [J0yfarah](https://github.com/J0yfarah)
